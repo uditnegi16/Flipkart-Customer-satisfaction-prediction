@@ -1,5 +1,9 @@
 # Flipkart Customer Satisfaction Prediction Dashboard
 
+## 🎥 Video Demo
+
+🎬 [Click here to watch the 5-minute walkthrough on Loom]([https://www.loom.com/share/YOUR_VIDEO_ID](https://www.loom.com/share/a007cc4420e146019c1d7e06e4a12d26?sid=56abab36-9a8c-4cc1-a4ec-be213ec7b79e))
+
 ## 🧠 Project Overview
 
 This project presents an interactive, ML-powered **Customer Satisfaction (CSAT) Prediction Dashboard** tailored for Flipkart support analytics. It helps business teams and customer experience strategists understand the key drivers behind satisfaction scores and agent performance.
