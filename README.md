@@ -28,19 +28,19 @@ The solution leverages:
 ## 🚀 Setup Instructions
 
 ### 1. Clone the Repository
-
+```bash
 git clone https://github.com/<your-username>/Flipkart-Customer-satisfaction-prediction.git
 cd Flipkart-Customer-satisfaction-prediction
-2. Install Dependencies
+```
+### 2. Install Dependencies
+```bash
 Make sure you have Python 3.8+ installed. Then run:
-
-bash
 Copy
-Edit
-pip install -r requirements.txt
+pip install -r requirements.
+```
 3. Run the Streamlit App
-bash
+```bash
 Copy
 Edit
 streamlit run streamlit_app.py
-```bash
+```
