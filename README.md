@@ -38,7 +38,7 @@ Make sure you have Python 3.8+ installed. Then run:
 Copy
 pip install -r requirements.
 ```
-3. Run the Streamlit App
+### 3. Run the Streamlit App
 ```bash
 Copy
 Edit
