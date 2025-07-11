@@ -2,7 +2,7 @@
 
 ## 🎥 Video Demo
 
-🎬 [Click here to watch the 5-minute walkthrough on Loom]([https://www.loom.com/share/YOUR_VIDEO_ID](https://www.loom.com/share/a007cc4420e146019c1d7e06e4a12d26?sid=56abab36-9a8c-4cc1-a4ec-be213ec7b79e))
+🎬 [Click here to watch the 5-minute walkthrough on Loom]([https://www.loom.com/share/YOUR_VIDEO_ID](https://www.loom.com/share/a007cc4420e146019c1d7e06e4a12d26?sid=56abab36-9a8c-4cc1-a4ec-be213ec7b79e)
 
 ## 🧠 Project Overview
 
